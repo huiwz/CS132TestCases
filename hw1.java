@@ -39,9 +39,9 @@ public class ParserTest
 	"1 _++ 1 _++ _ 1 _";
 	
 	String testInput8 =
-	"1+11+1";
+	"1+23+4";
 	String testOutput8 =
-	"1 1 + 1 1 + _";
+	"1 2 + 3 4 + _";
 	
 	// tests for precedence: test each layer of precedence one by one
 	// except the last two tests the highest with the lowest
